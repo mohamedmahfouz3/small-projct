@@ -1,2 +1,2 @@
-# small-projct
-my frist project by using html and css
+# small-projcts
+small project by using React js 
